@@ -1,4 +1,4 @@
-🖼️ Image Translation using GANs
+🖼️ Image Translation using GAN
 This project performs Image Translation using a Generative Adversarial Network (GAN) model, specifically trained to transform images of horses into zebras and vice versa. The implementation is done entirely in Google Colab and is based on the popular CycleGAN architecture.
 
 📌 Project Description
