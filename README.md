@@ -18,7 +18,7 @@ Framework: PyTorch
 Trained on GPU in Google Colab
 
 📊 Dataset
-Dataset: Horse2Zebra Dataset from Kaggle
+🔗 [Click here to download the Horse2Zebra dataset](https://www.kaggle.com/api/v1/datasets/download/balraj98/horse2zebra-dataset?dataset_version_number=1)
 
 Two classes: horse/ and zebra/
 
